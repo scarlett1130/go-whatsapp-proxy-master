@@ -1,0 +1,5 @@
+.idea
+go-whatsapp-proxy
+coverage.out
+whatsappstore.db
+.DS_Store
